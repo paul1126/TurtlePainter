@@ -14,4 +14,12 @@ A simple Python GUI drawing application using turtle and tkinter.
 - Status window showing pen, color, size, and turtle visibility
 
 
+## Requirements
+- pillow
+- turtle
+- tkinter
+- os
+
+
+
 **Note:** This project was made just for fun
