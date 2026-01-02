@@ -22,7 +22,7 @@ colorstat.pack()
 turtlestat.pack()
 sizestat.pack()
 
-t.title("Turtle Draw")
+t.title("TurtlePainter")
 t.color("black")
 t.shape("classic")
 
